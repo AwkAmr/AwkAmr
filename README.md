@@ -8,7 +8,7 @@ I’m a Computer & Communications Engineering student at  Alexandria University 
 
 ### ᯓ ✈︎ Lycans AeroDesign Team — Vice Leader & Head of Performance 
 
-### ✎𓂃 ML/AI Student Researcher
+### ✎𓂃 ‎ ML/AI Student Researcher
 
 ###  ‎ ‎ ‎ ‎☕︎‎ ‎ ‎  Class Representative
 
