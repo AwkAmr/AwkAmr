@@ -8,7 +8,7 @@ I’m a Computer & Communications Engineering student at  Alexandria University 
 
 ### ᯓ ✈︎ Lycans AeroDesign Team — Vice Leader & Head of Performance 
 
-### 𓂃🖊 ML/AI Student Researcher
+### ✎𓂃 ML/AI Student Researcher
 
 ###  ‎ ‎ ‎ ‎☕︎‎ ‎ ‎  Class Representative
 
@@ -36,7 +36,7 @@ I’m a Computer & Communications Engineering student at  Alexandria University 
 ---
 
 ### ☁︎ DevOps & Tools 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-316192?style=for-the-badge&logo=docker&logoColor=white) ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-02569B?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-F05032?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-316192?style=for-the-badge&logo=docker&logoColor=white) ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-02569B?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-F05032?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
