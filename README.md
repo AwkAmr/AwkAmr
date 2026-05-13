@@ -1,4 +1,4 @@
-# Hello, I'm Amr ‎ ‎ ‎‎ ( \^‿^ )ﾉﾞ
+# Hello, I'm Amr ‎ 
 
 I’m a Computer & Communications Engineering student at  Alexandria University who loves building systems people actually use. Clean backends, polished frontends, solid system design — and occasionally, designing, building and flying autonomous and manual UAVs that compete internationally. I enjoy pushing the theoretical and practical boundaries of science — and social boundaries at times —
 
